@@ -1,0 +1,15 @@
+Shopping Lists
+
+My roommate and I love cooking in the apartment, so we're always shopping for groceries. To make sure we don't double buy things, we make a special trip to the grocery store where we get items on both of our shopping lists. But it's hard to go through our shopping lists and find the items we both want.
+
+Can you write us a program that does it for us?
+
+For example, if we have two lists myList and roommatesList, it will give us a list that only contains items on both lists. Let's look at an example
+
+myList = apples, bananas, oranges, pears
+roommatesList = apples, cheese, crackers, oranges
+
+so our sharedList is...
+sharedList = apples, oranges
+
+Our program should be a single function that will take as it's argument two arrays, and from that it return us an array of the items that appear in both lists.
