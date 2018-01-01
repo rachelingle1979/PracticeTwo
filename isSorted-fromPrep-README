@@ -1,0 +1,13 @@
+ BCP: JS in the Browser and Prep > Check Array is Sorted
+Prompt
+Check Array is Sorted
+
+Write the function isSorted, which takes an array as input and outputs a boolean indicating if the array's contents are in ascending order.
+
+isSorted([8,2,3,4])
+// -> false
+
+
+isSorted([2,3,4,8])
+// -> true
+
